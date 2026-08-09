@@ -1,4 +1,4 @@
-# Final-Sales-Analytics-PowerBI
+# Executive summary-Sales Report-Power BI
 # Project Overview
 This project features an interactive Power BI Sales Analytics Dashboard designed to transform raw transaction data into actionable business insights. The dashboard tracks key performance indicators (KPIs), visualizes sales trends over time, and analyzes product and regional performance to support data-driven decision-making.
 # Key Features & Insights
